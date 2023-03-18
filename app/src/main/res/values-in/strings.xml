@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">latihan_design</string>
+    <string name="hello_welcome">Hallo, Selamat Datang</string>
+    <string name="login">Masuk</string>
+    <string name="username">Nama User</string>
+    <string name="paswword">Kata Sandi</string>
+    <string name="login_button">Masuk</string>
+    <string name="sign_up">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="username_signup">Nama User</string>
+    <string name="repeat_password">Ulangi Password</string>
+    <string name="sign_up_btn">Daftar</string>
+    <string name="login_in_register">Masuk</string>
+</resources>

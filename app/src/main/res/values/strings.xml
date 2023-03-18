@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Excercise_Design</string>
+    <string name="hello_welcome">Hello, Welcome</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="paswword">Paswword</string>
+    <string name="login_button">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="username_signup">Username</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="login_in_register">Login</string>
+    <string name="password_register">Password</string>
+    <string name="register_btn">Register</string>
+</resources>
